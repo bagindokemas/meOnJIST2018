@@ -22,8 +22,7 @@ Run The Tbox Scanner (TBoxScanner.java) using Java and collect the outputs.
 # Contact
     Kemas Rahmat Saleh Wiharja
     Computing Science Department
-    University of Aberdeen
-    r01krw16@abdn.ac.uk
+    University of Aberdeen    
     bagindokemas@telkomuniversity.ac.id
 
 # License
